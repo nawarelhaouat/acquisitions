@@ -68,3 +68,25 @@
 {"level":"info","message":"::ffff:127.0.0.1 - - [02/Nov/2025:19:17:36 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 114 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions-api"}
 {"level":"info","message":"User logged out","service":"acquisitions-api"}
 {"level":"info","message":"::ffff:127.0.0.1 - - [02/Nov/2025:19:17:59 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 37 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Nov/2025:20:01:32 +0000] \"POST /api/health HTTP/1.1\" 404 150 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Nov/2025:20:01:41 +0000] \"GET /api/health HTTP/1.1\" 404 149 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Nov/2025:20:01:53 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Nov/2025:20:01:55 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Nov/2025:20:01:56 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Nov/2025:20:01:57 +0000] \"GET /health HTTP/1.1\" 500 33 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Nov/2025:20:01:57 +0000] \"GET /health HTTP/1.1\" 500 33 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Nov/2025:20:03:08 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Nov/2025:20:03:10 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Nov/2025:20:03:12 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Nov/2025:20:03:13 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Nov/2025:20:03:14 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions-api"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Shield request blocked","path":"/health","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Nov/2025:20:03:15 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions-api"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Shield request blocked","path":"/health","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Nov/2025:20:03:31 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions-api"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Shield request blocked","path":"/health","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Nov/2025:20:03:33 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions-api"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Shield request blocked","path":"/health","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Nov/2025:20:03:34 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions-api"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Shield request blocked","path":"/health","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Nov/2025:20:03:35 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions-api"}
