@@ -1,2 +1,7 @@
 node_modules/
 .env
+.env.development
+.env.production
+.neon_local/
+public/readme/module-icon.webp
+public/readme/module-thumbnail.webp
